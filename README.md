@@ -1,6 +1,6 @@
 ### Hi there, I'm Julien ! 👋 
 
-## I'm a student learning programming !
+## I'm a software engineer !
 
 - 🌱 I’m currently learning programming
 - 👯 I’m looking to collaborate with other developers
