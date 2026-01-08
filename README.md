@@ -19,10 +19,10 @@ Throughout my journey, I also developed a strong interest in Data and Artificial
 🔍 I aim to contribute to ambitious Data or Software projects, apply my technical and analytical skills, and continue evolving toward roles that combine technical expertise and project management.
 
 
-➤ What I can bring
-💻 Autonomous and curious, I continuously learn new tools and technologies (Python, SQL, data visualization, machine learning).
-📊 Able to transform raw data into actionable insights, supported by a solid background in software development and project management.
-👌 Motivated and proactive, I enjoy collaborating within teams and contributing to impactful projects.
+➤ What I can bring \
+💻 Autonomous and curious, I continuously learn new tools and technologies (Python, SQL, data visualization, machine learning).\
+📊 Able to transform raw data into actionable insights, supported by a solid background in software development and project management.\
+👌 Motivated and proactive, I enjoy collaborating within teams and contributing to impactful projects.\
 
 🚘 I have a Driving license (Category B)
 
