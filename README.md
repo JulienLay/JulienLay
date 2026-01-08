@@ -1,8 +1,10 @@
 ### Hi there, I'm Julien and I'm 25 years old ! 👋 
 
+
 ➤ In a few words
 
 Passionate about science and computer engineering, I have built my background around software development, project management, and data analysis.
+
 
 ➤ My background
 
@@ -11,9 +13,11 @@ I then joined IPI through a work-study program to become a Fullstack / Backend D
 
 Throughout my journey, I also developed a strong interest in Data and Artificial Intelligence, working on concrete projects involving Python, SQL, and data visualization.
 
+
 ➤ What I’m looking for
 
 🔍 I aim to contribute to ambitious Data or Software projects, apply my technical and analytical skills, and continue evolving toward roles that combine technical expertise and project management.
+
 
 ➤ What I can bring
 💻 Autonomous and curious, I continuously learn new tools and technologies (Python, SQL, data visualization, machine learning).
@@ -21,6 +25,8 @@ Throughout my journey, I also developed a strong interest in Data and Artificial
 👌 Motivated and proactive, I enjoy collaborating within teams and contributing to impactful projects.
 
 🚘 I have a Driving license (Category B)
+
+
 
 ### Connect with me:
 
