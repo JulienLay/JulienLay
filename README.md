@@ -1,10 +1,26 @@
-### Hi there, I'm Julien ! 👋 
+### Hi there, I'm Julien and I'm 25 years old ! 👋 
 
-## I'm a software engineer !
+➤ In a few words
 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 Goals: Learn some new frameworks 
-- ⚡ Fun fact: I love playing tennis and learning some new songs on the piano
+Passionate about science and computer engineering, I have built my background around software development, project management, and data analysis.
+
+➤ My background
+
+🎓 After a scientific high school diploma, I completed a Computer Science degree followed by a DUT MMI (Multimedia and Internet Professions), including several internships.
+I then joined IPI through a work-study program to become a Fullstack / Backend Developer, with a strong focus on project management.
+
+Throughout my journey, I also developed a strong interest in Data and Artificial Intelligence, working on concrete projects involving Python, SQL, and data visualization.
+
+➤ What I’m looking for
+
+🔍 I aim to contribute to ambitious Data or Software projects, apply my technical and analytical skills, and continue evolving toward roles that combine technical expertise and project management.
+
+➤ What I can bring
+💻 Autonomous and curious, I continuously learn new tools and technologies (Python, SQL, data visualization, machine learning).
+📊 Able to transform raw data into actionable insights, supported by a solid background in software development and project management.
+👌 Motivated and proactive, I enjoy collaborating within teams and contributing to impactful projects.
+
+🚘 I have a Driving license (Category B)
 
 ### Connect with me:
 
