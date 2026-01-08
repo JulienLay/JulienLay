@@ -2,7 +2,6 @@
 
 ## I'm a software engineer !
 
-- 🌱 I’m currently learning programming
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Goals: Learn some new frameworks 
 - ⚡ Fun fact: I love playing tennis and learning some new songs on the piano
