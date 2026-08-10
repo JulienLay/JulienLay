@@ -1,30 +1,26 @@
 ### Hi there, I'm Julien and I'm 25 years old ! 👋 
 
 
-➤ In a few words
+➤ About me
 
-Passionate about science and computer engineering, I have built my background around software development, project management, and data analysis.
-
+Passionate about software development, I specialize in Java Backend development. I enjoy designing reliable applications, writing clean and maintainable code, and contributing to every stage of a project, from design to deployment.
 
 ➤ My background
 
-🎓 After a scientific high school diploma, I completed a Computer Science degree followed by a DUT MMI (Multimedia and Internet Professions), including several internships.
-I then joined IPI through a work-study program to become a Fullstack / Backend Developer, with a strong focus on project management.
+🎓 After graduating from a Scientific High School, I completed a Bachelor's degree in Computer Science and a DUT in Multimedia and Internet Technologies, gaining hands-on experience through internships.  
+I then joined IPI Engineering School as a work-study student, specializing in Full Stack development with a strong focus on Backend technologies while also developing project management skills.  
+Throughout my journey, I have worked on Java applications, SQL databases, REST APIs, and software architecture. I have also explored Data and Artificial Intelligence through personal and academic projects, strengthening my analytical and problem-solving skills.
 
-Throughout my journey, I also developed a strong interest in Data and Artificial Intelligence, working on concrete projects involving Python, SQL, and data visualization.
+➤ What I'm looking for
 
+🔍 I'm looking for a Java Backend Developer position where I can contribute to building scalable applications, tackle technical challenges, and continue growing within the Java ecosystem, particularly with Spring Boot, REST APIs, databases, and software architecture.
 
-➤ What I’m looking for
+➤ What I bring
 
-🔍 I aim to contribute to ambitious Data or Software projects, apply my technical and analytical skills, and continue evolving toward roles that combine technical expertise and project management.
-
-
-➤ What I can bring \
-💻 Autonomous and curious, I continuously learn new tools and technologies (Python, SQL, data visualization, machine learning).\
-📊 Able to transform raw data into actionable insights, supported by a solid background in software development and project management.\
-👌 Motivated and proactive, I enjoy collaborating within teams and contributing to impactful projects.\
-
-🚘 I have a Driving license (Category B)
+💻 Strong software development fundamentals and a continuous learning mindset.  
+⚙️ Skills in Java, SQL, backend development, software design, and collaborative development practices.  
+🤝 A motivated, adaptable, and proactive team player who enjoys solving technical challenges and delivering high-quality software.  
+🚗 Driving License (Category B)
 
 
 
@@ -37,31 +33,56 @@ Throughout my journey, I also developed a strong interest in Data and Artificial
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+
+<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
+
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+
+<img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" />
+
+<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" />
+
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
+
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+
 <br />
+
 <br />
 
 [website]: https://julienlay.github.io/portfolio/
