@@ -1,35 +1,104 @@
-### Hi there, I'm Julien and I'm 25 years old ! 👋 
+# 👋 Bonjour, moi c'est Julien
 
+💻 **Développeur Java / Spring Boot · Backend · Full Stack**
 
-➤ About me
+Développeur Full Stack avec plus de 3 ans d'expérience professionnelle dans des environnements aéronautiques et industriels chez **Sopra Steria** et **Capgemini**.
 
-Passionate about software development, I specialize in Java Backend development. I enjoy designing reliable applications, writing clean and maintainable code, and contributing to every stage of a project, from design to deployment.
+Je me spécialise aujourd'hui dans le **développement Backend Java**, avec un fort intérêt pour **Spring Boot, les API REST, SQL et PostgreSQL**. Je possède également une expérience Full Stack avec **Angular et React**.
 
-➤ My background
+J'aime concevoir des applications robustes, écrire du code maintenable et participer aux différentes étapes d'un projet, de la conception jusqu'aux tests, à l'intégration et au déploiement.
 
-🎓 After graduating from a Scientific High School, I completed a Bachelor's degree in Computer Science and a DUT in Multimedia and Internet Technologies, gaining hands-on experience through internships.  
-I then joined IPI Engineering School as a work-study student, specializing in Full Stack development with a strong focus on Backend technologies while also developing project management skills.  
-Throughout my journey, I have worked on Java applications, SQL databases, REST APIs, and software architecture. I have also explored Data and Artificial Intelligence through personal and academic projects, strengthening my analytical and problem-solving skills.
+## 🛠️ Compétences techniques
 
-➤ What I'm looking for
+### Backend
 
-🔍 I'm looking for a Java Backend Developer position where I can contribute to building scalable applications, tackle technical challenges, and continue growing within the Java ecosystem, particularly with Spring Boot, REST APIs, databases, and software architecture.
+- Java
+- Spring Boot / Spring MVC
+- Spring Data JPA / Hibernate
+- API REST
+- SQL
 
-➤ What I bring
+### Frontend
 
-💻 Strong software development fundamentals and a continuous learning mindset.  
-⚙️ Skills in Java, SQL, backend development, software design, and collaborative development practices.  
-🤝 A motivated, adaptable, and proactive team player who enjoys solving technical challenges and delivering high-quality software.  
-🚗 Driving License (Category B)
+- Angular
+- React
+- TypeScript
+- JavaScript
 
+### Bases de données
 
+- PostgreSQL
+- MySQL
+- SQL Server
+- MongoDB
 
-### Connect with me:
+### DevOps & Outils
 
-[<img align="left" alt="linkedin.com/in/layjulien/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="JulienLay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- Git / GitHub / GitLab
+- Docker
+- Jenkins
+- SonarQube
+- AWS
+- Kubernetes
 
-<br />
+### Autres technologies
+
+- Python
+- C#
+- .NET
+- HTML / CSS
+
+## 💼 Expérience professionnelle
+
+Plus de **3 ans d'expérience dans le développement logiciel**, notamment dans des environnements **aéronautiques, industriels et grands comptes**.
+
+Mes principales expériences m'ont permis de travailler sur :
+
+- le développement d'applications Java / Spring Boot ;
+- la conception et l'intégration d'API REST ;
+- la gestion et l'exploitation de bases de données SQL ;
+- le développement Full Stack avec Angular ;
+- la mise en place de tests unitaires et d'intégration ;
+- les pipelines CI/CD ;
+- les pratiques Agile / Scrum ;
+- la conception et la maintenance d'applications métier.
+
+## 🎓 Formation & certifications
+
+- **Master Expert en Ingénierie Logicielle** — IPI Toulouse · 2023–2025
+- **Bachelor Concepteur Développeur d'Applications** — IPI Toulouse · 2022–2023
+- **DUT MMI** — Université Toulouse III · 2020–2022
+- **AWS Certified Cloud Practitioner** · 2025
+- **Google Data Analytics Professional Certificate** · 2026
+
+## 🚀 Projets
+
+### ✈️ AeroTrack
+
+Application Full Stack développée avec :
+
+`Java` · `Spring Boot` · `Angular` · `PostgreSQL` · `Docker`
+
+Le projet met notamment en œuvre :
+
+- API REST
+- Spring Data JPA
+- PostgreSQL
+- Tests backend
+- Docker
+- CI/CD
+
+### 📊 Projets Python / Data
+
+Projets personnels et académiques autour de l'analyse et du traitement de données avec :
+
+`Python` · `Pandas`
+
+## 🔍 Ce que je recherche
+
+Je recherche un poste de **Développeur Java Backend ou Full Stack**, avec une dominante **Java / Spring Boot**, dans lequel je pourrai contribuer à des applications métier et continuer à progresser sur :
+
+`Java` · `Spring Boot` · `API REST` · `SQL` · `PostgreSQL` · `Architecture logicielle`
 
 ### Languages and Tools:
 
